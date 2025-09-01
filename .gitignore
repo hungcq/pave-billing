@@ -1,0 +1,32 @@
+/.encore
+encore.gen.go
+encore.gen.cue
+/encore.gen
+.idea
+.cursorrules
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporal data
+temporal-data/
+temporal-config/
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
