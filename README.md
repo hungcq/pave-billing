@@ -12,6 +12,10 @@ The Billing API provides the following capabilities:
 - **Real-time Signals**: Temporal signals for immediate line item processing
 - **Automated Closing**: Bills automatically close at the end of their billing period
 
+The service is also available on Encore cloud at
+[https://staging-pave-billing-s2a2.encr.app/bills](https://staging-pave-billing-s2a2.encr.app/bills),
+where it runs with Temporal Cloud.
+
 ## Features
 
 ### [Core Requirements](./challenge.pdf)
@@ -286,11 +290,6 @@ encore test ./...
 ```
 
 ## Run Locally and Deploy
-
-## Install and Run Locally
-The service is also available on Encore cloud at
-[https://staging-pave-billing-s2a2.encr.app/bills](https://staging-pave-billing-s2a2.encr.app/bills),
-where it runs with Temporal Cloud.
 
 ### Run Locally
 #### Prerequisites
